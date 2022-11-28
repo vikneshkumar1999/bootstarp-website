@@ -1,0 +1,21 @@
+@media (max-width:576px){
+	
+.banner-content h1
+{
+	font-size:26px;
+	text-align:center;
+}
+
+.banner-content p 
+{
+	text-align:center;
+	font-size:20px;
+}
+
+.about-why 
+{
+	margin-bottom:80px;
+}
+
+}
+
